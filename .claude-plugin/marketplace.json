@@ -1,0 +1,17 @@
+{
+  "name": "test-multi-marketplace",
+  "description": "Minimal test of multi-plugin marketplace",
+  "owner": { "name": "test" },
+  "plugins": [
+    {
+      "name": "plugin-a",
+      "source": "./plugins/plugin-a",
+      "description": "Test plugin A"
+    },
+    {
+      "name": "plugin-b",
+      "source": "./plugins/plugin-b",
+      "description": "Test plugin B"
+    }
+  ]
+}
