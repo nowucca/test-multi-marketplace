@@ -12,6 +12,11 @@
       "name": "plugin-b",
       "source": "./plugins/plugin-b",
       "description": "Test plugin B"
+    },
+    {
+      "name": "test:colon",
+      "source": "./plugins/test:colon",
+      "description": "Test plugin with colon in name"
     }
   ]
 }
